@@ -1,0 +1,21 @@
+.title {
+    color: rgb(12, 12, 12);
+    background-color: brown;
+    font-weight: normal;
+    text-align: center;
+  }
+.container h2 {
+    color: red;
+    display: inline-block;
+    background-color: greenyellow;
+}
+.picture:active {
+    color: red;
+    display: inline-block;
+    background-color: greenyellow;
+    opacity: 0.8;
+    position: relative;
+    top: 6px;
+    left: 10px;
+    box-shadow: none;
+}
