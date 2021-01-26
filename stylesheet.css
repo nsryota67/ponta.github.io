@@ -8,6 +8,7 @@
     color: red;
     display: inline-block;
     background-color: greenyellow;
+    background-image: url(ポン太2.jpg)
 }
 .picture:active {
     color: red;
