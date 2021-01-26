@@ -5,6 +5,9 @@
     text-align: center;
   }
 .container h2 {
+    color: red;
+    background-color: greenyellow;
+    display: inline-block;
     background-image: url(ポン太2.jpg);
 }
 .picture:active {
